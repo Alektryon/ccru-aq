@@ -68,7 +68,7 @@
 	.top:after {
 		content:" ";
 		background:linear-gradient(rgba(255,255,255,0), #fff);
-		height:200px;
+		height:81px;
 		width:100%;
 		display:block;
 		position:fixed;
