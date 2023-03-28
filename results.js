@@ -30,10 +30,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+10>textset.length) {
+                if(textpos+11>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+10;
+                    offend = textpos+11;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -91,10 +91,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+10>textset.length) {
+                if(textpos+11>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+10;
+                    offend = textpos+11;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -152,10 +152,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+10>textset.length) {
+                if(textpos+11>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+10;
+                    offend = textpos+11;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -213,10 +213,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+10>textset.length) {
+                if(textpos+11>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+10;
+                    offend = textpos+11;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -274,10 +274,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+10>textset.length) {
+                if(textpos+11>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+10;
+                    offend = textpos+11;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -335,10 +335,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+10>textset.length) {
+                if(textpos+11>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+10;
+                    offend = textpos+11;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -396,10 +396,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+10>textset.length) {
+                if(textpos+11>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+10;
+                    offend = textpos+11;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -457,10 +457,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+10>textset.length) {
+                if(textpos+11>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+10;
+                    offend = textpos+11;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
