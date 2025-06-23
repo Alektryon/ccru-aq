@@ -162,7 +162,7 @@
 	.top:after {
 		content:" ";
 		background:linear-gradient(rgba(0,0,0,0), #000);
-		height:200px;
+		height:111px;
 		width:100%;
 		display:block;
 		position:fixed;
