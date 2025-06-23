@@ -3,4 +3,4 @@ A Gematria tool that uses the full text of "Ccru Writings 1997-2003" as its data
 <br>
 It isn't perfect, but... it's a start. =P<br>
 <br>
-Based on <a href="https://github.com/vanessakindell" target="_blank">Vanessa Kindell</a>'s <a href="https://github.com/vanessakindell/secret-cipher" target="_blank">Secret Cipher</a> calculator.
+Based on [Vanessa Kindell](https://github.com/vanessakindell)'s [Secret Cipher](https://github.com/vanessakindell/secret-cipher) calculator.
